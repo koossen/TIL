@@ -70,7 +70,7 @@ automator app
 ![img](https://hphk.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffc01ba67-0a1b-41ad-88a8-7519e517b513%2FUntitled.png?table=block&id=16ae55d3-7b65-41f2-ab5e-9534ee32b8ac&spaceId=daa2d103-3ecd-4519-8c30-4f55e74c7ef4&width=2000&userId=&cache=v2)
 
 ```
-	open -n -b "com.microsoft.VSCode" --args "$*"
+open -n -b "com.microsoft.VSCode" --args "$*"
 ```
 ### Setting
 in terminal
